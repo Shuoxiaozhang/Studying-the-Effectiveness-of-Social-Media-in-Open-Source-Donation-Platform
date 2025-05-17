@@ -1,0 +1,1255 @@
+[
+    {
+        "data": {
+            "collective": {
+                "slug": "open-science-tv",
+                "name": "Open Science TV",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open science",
+                    "open science tv",
+                    "open access",
+                    "openness"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 5
+                },
+                "stats": {
+                    "contributionsCount": 23,
+                    "contributorsCount": 3
+                },
+                "totalFinancialContributors": 3,
+                "location": {
+                    "country": "FR"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "ggeorge-young",
+                "name": "George Young",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "hacktoberfest"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "skillswap",
+                "name": "SkillSwap",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "shabstodon",
+                "name": "Shabstodon",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "migrantifa-mainz",
+                "name": "Migrantifa Mainz",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "climate justice",
+                    "antiracism",
+                    "anticolonial",
+                    "police abolition"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "DE"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "benedictatkins",
+                "name": "benedict atkins",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "javascript",
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": null
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "buildtest",
+                "name": "Buildtest",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "python",
+                    "testing"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "gregpahl1",
+                "name": "GregPahl1",
+                "type": "COLLECTIVE",
+                "tags": null,
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "anselmo-academy-of-music",
+                "name": "Anselmo Academy of Music",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "US"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "gaias-gift-water-bar",
+                "name": "Gaia’s Gift- Water Bar",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community",
+                    "water",
+                    "votex water",
+                    "structured water",
+                    "living water",
+                    "full spectrum water",
+                    "eductation",
+                    "open source",
+                    "cacao",
+                    "indigenous",
+                    "vortex math",
+                    "quantum science",
+                    "water coherence",
+                    "las vegas",
+                    "energy medicine",
+                    "pulsing electromagnetic therapy",
+                    "hyrdogen",
+                    "natural law",
+                    "air law",
+                    "water law",
+                    "sound therapy",
+                    "natural medicine",
+                    "health & wellness",
+                    "hyrdo therapy",
+                    "kollaboration"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "US"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "resonance",
+                "name": "Resonance",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "javascript",
+                    "hacktoberfest",
+                    "nocode",
+                    "lowcode",
+                    "self-hosted",
+                    "sveltekit",
+                    "scheduler"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": null
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "boianberberov",
+                "name": "Boian Berberov",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "manchester-trans-rise-up",
+                "name": "Manchester Trans Rise Up",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "ionic-spa-shower-head",
+                "name": "Ionic Spa Shower Head",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "association"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "collective-1",
+                "name": "Collective 1",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community",
+                    "technology"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "US"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "xaversf",
+                "name": "xaversf",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "in-the-heart-of-the-lab",
+                "name": "ItHotL",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community",
+                    "minecraft"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "NL"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "relationship",
+                "name": "中国亲戚关系计算器",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "chinese kinship",
+                    "relationship"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "CN"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "rajjshah",
+                "name": "Raj J Shah",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "pantherpy",
+                "name": "Panther",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "python",
+                    "web-framework"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "pamoja-tuangamize-corona",
+                "name": "Pamoja tuangamize corona",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "covid-19"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "my-migraine-breakthrough",
+                "name": "My Migraine Breakthrough",
+                "type": "COLLECTIVE",
+                "tags": null,
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "deehmimiqat",
+                "name": "deehmimiqat",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "SA"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "huggingface-demo",
+                "name": "Huggingface Demo",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "python",
+                    "hacktoberfest",
+                    "javascript",
+                    "react",
+                    "typescript"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "svelte-animations",
+                "name": "Svelte Animations",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "svelte",
+                    "tailwindcss",
+                    "ui-components"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "molly-cashen2",
+                "name": "Molly Cashen2",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "food-for-homeless-p2",
+                "name": "Food for Homeless",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "gomymobi",
+                "name": "gomymobiBSB: Free Online Site & Shop Builder",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "site builder",
+                    "store creator",
+                    "shop maker",
+                    "ecommerce platform",
+                    "landing page builder"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": null
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "digitalmediafantasies",
+                "name": "Christopher Black",
+                "type": "COLLECTIVE",
+                "tags": null,
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "club-penguin-avalanche",
+                "name": "Club Penguin Avalanche",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "club penguin",
+                    "community support",
+                    "donations",
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "BR"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "ucbooks",
+                "name": "UCBooks",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "learning-book",
+                "name": "蒋佳李",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "compose-museum",
+                "name": "Compose Museum",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "jetpackcompose"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "CN"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "commissions",
+                "name": "Commissions",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "troynix",
+                "name": "TroyNix",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "other"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "cameron-brownn",
+                "name": "Cameron Brownn",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "belsebob",
+                "name": "Belsebob",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "nonprofit"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "comprar-altavoces-bluetooth1",
+                "name": "Comprar altavoces bluetooth",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "other"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "rajinder-goswami1958",
+                "name": "Rajinder Goswami",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community education",
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "IN"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "ariski-othman2",
+                "name": "Ariski Othman",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "movement"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "albijon-haug1",
+                "name": "Albijon Haug",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "coop"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "zenithal",
+                "name": "Zenithal",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "johnburke",
+                "name": "JohnBurke",
+                "type": "COLLECTIVE",
+                "tags": null,
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "aicaw-ac-huichol-health-home",
+                "name": "AICAW A.C. Huichol Health Home",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "indigenous",
+                    "health",
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 2
+                },
+                "stats": {
+                    "contributionsCount": 2,
+                    "contributorsCount": 1
+                },
+                "totalFinancialContributors": 1,
+                "location": {
+                    "country": "MX"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "kameronbroussard",
+                "name": "KameronBroussard",
+                "type": "COLLECTIVE",
+                "tags": null,
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "ni-ji-service-solutions",
+                "name": "Ni ji service solutions",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "biomaskfoce",
+                "name": "biomaskfoce",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "covid-19"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "safit",
+                "name": "SAF",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "community",
+                    "softwere",
+                    "support",
+                    "computer",
+                    "help"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "bathriot",
+                "name": "Bath Riot",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "media",
+                    "content creator",
+                    "activism",
+                    "latinx",
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "US"
+                }
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "shiny-enigma",
+                "name": "Shiny Enigma",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "open source",
+                    "javascript",
+                    "python"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "fursat",
+                "name": "Fursat",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "association",
+                    "movement",
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": null
+            }
+        }
+    },
+    {
+        "data": {
+            "collective": {
+                "slug": "boston-all-stars",
+                "name": "Boston All-Stars",
+                "type": "COLLECTIVE",
+                "tags": [
+                    "robotics",
+                    "education",
+                    "open source",
+                    "community"
+                ],
+                "categories": [],
+                "orders": {
+                    "totalCount": 0
+                },
+                "stats": {
+                    "contributionsCount": 0,
+                    "contributorsCount": 0
+                },
+                "totalFinancialContributors": 0,
+                "location": {
+                    "country": "US"
+                }
+            }
+        }
+    }
+]

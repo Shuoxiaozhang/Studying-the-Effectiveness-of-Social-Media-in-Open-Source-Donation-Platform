@@ -1,0 +1,16 @@
+Covariate,SMD_Before,SMD_After
+totalFinancialContributors,0.192,-0.02
+tag_community,-0.473,-0.042
+tag_open source,0.742,0.035
+tag_javascript,0.231,0.047
+tag_other,-0.112,-0.046
+tag_association,-0.024,-0.041
+type_公益型,-0.51,-0.049
+type_技术型,0.559,0.049
+type_教育型,-0.136,-0.005
+country_DE,0.076,0.0
+country_FR,0.032,0.039
+country_GB,-0.118,-0.016
+country_Other,0.101,-0.036
+country_US,0.101,-0.038
+country_Unknown,-0.11,0.055

@@ -1,0 +1,14 @@
+Covariate,SMD_Before,SMD_After
+totalFinancialContributors,0.183,0.007
+age,0.255,0.091
+members,0.192,0.007
+updates,0.161,-0.021
+type_公益型,-0.195,-0.003
+type_技术型,0.221,0.007
+type_教育型,-0.076,-0.01
+country_DE,0.054,0.012
+country_FR,0.046,0.006
+country_GB,0.017,-0.008
+country_Other,0.056,-0.001
+country_US,0.187,-0.062
+country_Unknown,-0.22,0.05
